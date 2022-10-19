@@ -1,5 +1,5 @@
 var family = {
-  adress: "Seoul",
+  address: "Seoul",
   members: {},
   addFamily: function (age, name, role) {
     this.members[role] = {
